@@ -1,12 +1,24 @@
 ## Hi there 👋
 
-<!--
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/GoDatingFi/go_dating_fi_mobile/master/assets/logo/logo.png" alt="GoDatingFi" />
+</h1>
 
-**Here are some ideas to get you started:**
+## Hey! 👋
+We're GoDatingFi.com, A decentralized Global Platform for Dating.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a team of SocialFi blockchain in ASIA, We bring experience dating with blockchain apps.
+
+- 🧭 Founder at [@T-Long1207](https://github.com/T-Long1207)
+
+
+## Social
+<center>
+<a href="https://github.com/GoDatingFi"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" width="200" height="200" alt="GoDatingFi"/></a>
+<a href="https://twitter.com/GoDatingFi"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" width="200" height="200" alt="GoDatingFi"/></a>
+<a href="https://godatingfi.com/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Blogger.svg" width="200" height="200"  alt="GoDatingFi"/></a>
+<a href="https://discord.gg/4M3bywmd"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Discord.svg" width="200" height="200"  alt="GoDatingFi"/></a>
+</center>
+
+## Blockchain TAG
+#web3 #SocialFi #GoDatingFi #Blockchain
