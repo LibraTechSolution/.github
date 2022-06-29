@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/GoDatingFi/go_dating_fi_mobile/master/assets/logo/logo.png" width="200" height="200" alt="GoDatingFi" />
-</h1>
-
 ## Hey! 👋
 We're GoDatingFi.com, A decentralized Global Platform for Dating.
 
